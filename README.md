@@ -1,5 +1,5 @@
-# Pyromid 
-## Bulk Recovery From Mnemonic Method for Compressed and Uncompressed Bitcoin Wallet
+# BtcBruteTool 
+## BTC Recovery From Mnemonic Method for Compressed and Uncompressed Bitcoin Wallet
 
 ```bash
 pip install cryptofuzz colorthon blessed
