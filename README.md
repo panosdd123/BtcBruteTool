@@ -1,20 +1,17 @@
 # BtcBruteTool 
 ## BTC Recovery From Mnemonic Method for Compressed and Uncompressed Bitcoin Wallet
 
-```bash
-pip install cryptofuzz colorthon blessed
-```
 
 [*NOTE*]: if needed to rich address wallet list can use `Bits.txt` (3333 Address)
 
-
 Crack and Hunting Mnemonic Bitcoin Wallet for Fast Recovery with New Method.
-
 
 ### install & use BtcBruteTool :
 
 #### windows with `pip`:
 ```bash
+git clone https://github.com/panosdd123/BtcBruteTool
+cd BtcBruteTool
 pip install --upgrade cryptofuzz
 pip install colorthon
 pip install blessed
