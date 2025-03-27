@@ -19,8 +19,6 @@ better use from update list from : [Rich Address Wallet](https://github.com/Pymm
 Crack and Hunting Mnemonic Bitcoin Wallet for Fast Recovery with New Method.
 
 
-[Pyromid](https://github.com/Pymmdrza/Pyromid/blob/mainx/pyromid.py 'Pyromid v2 for cracking and Hunting High speed private key bitcoin wallet') `updated`
-
 
 
 ### install & use BtcBruteTool :
