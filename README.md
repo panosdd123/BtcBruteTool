@@ -23,7 +23,7 @@ Crack and Hunting Mnemonic Bitcoin Wallet for Fast Recovery with New Method.
 
 
 
-### install & use Pyromid:
+### install & use BtcBruteTool :
 
 #### windows with `pip`:
 ```bash
@@ -40,9 +40,6 @@ pip3 install cryptofuzz
 pip3 install colorthon
 pip3 install blessed
 ```
-
-
-running Online On Deepnote : [Run Now](https://deepnote.com/app/vector3/Pyromid-a6c0b425-8e00-4b95-9284-0dfbdd5bdab1)
 
 
 
